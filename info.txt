@@ -1,0 +1,4 @@
+https://tutorial.djangogirls.org/ru/django_admin/
+
+Username: django
+Password: django
