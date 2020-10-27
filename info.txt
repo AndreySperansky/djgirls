@@ -1,4 +1,7 @@
+Источники:
 https://tutorial.djangogirls.org/ru/django_admin/
+https://tutorial-extensions.djangogirls.org/
+
 
 Username: django
 Password: django

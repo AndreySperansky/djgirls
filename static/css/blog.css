@@ -43,11 +43,23 @@ h1, h2, h3, h4 {
     margin-bottom: 70px;
 }
 
+.login, .login:hover, .login:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 15pt;
+    margin-right: 20px;
+}
+
 .post h1 a, .post h1 a:visited {
     color: #000000;
+
 }
 
 img {
     width: 350px;
     padding-left: 50px;
 }
+
+/*form {*/
+/*    display: inline-block ;*/
+/*}*/
